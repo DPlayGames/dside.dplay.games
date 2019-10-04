@@ -34,7 +34,7 @@ DSideDownload.Home = CLASS({
 				top : 0,
 				width : '100%',
 				minHeight : '100%',
-				backgroundImage : '/DSideDownload/R/background.png'
+				backgroundImage : '/DSideDownload/R/background.jpg'
 			},
 			
 			contentStyle : {
